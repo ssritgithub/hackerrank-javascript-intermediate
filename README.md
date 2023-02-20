@@ -1,0 +1,1 @@
+# hackerrank-javascript-intermediate-1
